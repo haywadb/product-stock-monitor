@@ -1,4 +1,4 @@
-# Product Stock Monitor - 1.0.0
+# Product Stock Monitor - 1.0.1
 
  A lightweight stock monitor for high demand products. Never miss a restock again
  
