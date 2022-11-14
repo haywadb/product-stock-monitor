@@ -3,7 +3,8 @@
  A lightweight stock monitor for high demand products. Never miss a restock again
  
  Working On: <br />
- * BestBuy-CA <br />
+ * Best Buy - Canada <br />
+ * Toys R Us - Canada <br />
 
 ## Installation
 
