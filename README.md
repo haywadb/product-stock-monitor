@@ -12,8 +12,7 @@
 
 1. Clone the repository<br />
 2. `npm install`
-3. Open bestbuy-ca file and add product SKU's
-4. `npm start` or `node bestbuy-ca.js`
+3. `npm start` or `node app.js`
 
 ## To-do
 
