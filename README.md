@@ -17,4 +17,4 @@
 
 - Implement discord & sms notifications <br />
 - Add BestBuy US, Walmart CA, Walmart US, and Canada Computers <br />
-- Add user friendly CLI
+- Add proxy usage
